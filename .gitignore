@@ -72,3 +72,13 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Content/Maps/LABS/TempleVallely_sharedassets/Snow_LayerInfo.uasset
+
+Content/Maps/LABS/TempleVallely_sharedassets/Sand_LayerInfo.uasset
+
+Content/Maps/LABS/TempleVallely_sharedassets/Grass_LayerInfo.uasset
+
+Content/Maps/LABS/TempleVallely.umap
+
+Content/Maps/LABS/Temple_Valley-1.uasset
